@@ -5,3 +5,7 @@
   margin: auto;
   padding: 2em;
 } */
+
+button {
+  transition: all 0.6s ease-in-out;
+}
