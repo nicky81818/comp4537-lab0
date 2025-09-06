@@ -1,11 +1,11 @@
-/* #buttons {
+div#buttons {
   display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  margin: auto;
-  padding: 2em;
-} */
+  flex-wrap: wrap;
+  gap: 1em;
+}
 
-button {
+button.game-btn {
   transition: all 0.6s ease-in-out;
+  color: black;
+  font-size: 1em;
 }
