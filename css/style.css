@@ -6,6 +6,6 @@ div#buttons {
 
 button.game-btn {
   transition: all 0.6s ease-in-out;
-  color: black;
+  color: black !important;
   font-size: 1em;
 }
